@@ -1,17 +1,17 @@
 # Endgame-13 - Sprint 5 (Problem Solving)
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Nayem Ahmmed
-Mern-Stack Web Developer
+### Nayem Ahmmed
+### Mern-Stack Web Developer
 
 This repository contains JavaScript implementations for a set of core Data Structures and Algorithms (DSA) problems as part of Endgame-13 Sprint 5.
 
-📁 Project Structure
+## 📁 Project Structure
 
 EG-13_Sprint-5_PS.js - Contains all the core problem-solving functions and test cases.
 
-🛠️ Implemented Functions
+## 🛠️ Implemented Functions
 
 1. Remove Duplicates from Sorted Array (removeDuplicates) - Removes duplicate values in-place from a sorted array and returns the number of unique elements.
 2. Binary Search (search) - Finds the index of a target value in a sorted array using logarithmic O(log n) time.
@@ -24,7 +24,7 @@ EG-13_Sprint-5_PS.js - Contains all the core problem-solving functions and test 
 9. Continuous Subarray Sum (checkSubarraySum) - Determines if a continuous subarray of at least two elements sums to a multiple of k using prefix sums and modulo arithmetic.
 10. Daily Temperatures (dailyTemperatures) - Calculates waiting days for a warmer temperature using a monotonic decreasing stack.
 
-🚀 How to Run
+## 🚀 How to Run
 
 Make sure you have Node.js installed on your machine. Run the following command in your terminal:
 
